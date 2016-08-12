@@ -1,0 +1,47 @@
+.alert alert-success{
+	width:200px;
+	padding:20px;
+
+}
+.nav {
+	float: right;
+}
+.navbar{
+	background-color: #2980b9;
+}
+ul li{
+background-color: #ecf0f1;
+margin-top: 5px;
+margin-bottom: 5px;
+border-radius: 5px;
+}
+
+}
+.form-horizontal{
+	align:right;
+
+	
+}
+.col-sm-10{
+	width: 350px;
+
+}
+.form-control{
+	width:50px;
+}
+.main_form{
+	float: right;
+	width:;
+	background-color:#2ecc71;
+	border-radius: 5px;
+}
+hr{
+margin-top: 250px; 
+margin-right: 50px;
+width:20%;
+background-color: blue;
+
+
+
+
+}
